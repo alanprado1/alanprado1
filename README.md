@@ -6,8 +6,6 @@ Hi there, I'm Alan Prado 👋
 - 👯 I’m looking to collaborate on as many projects as I can
 - 📫 Contact me @: alansofteng@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <a href="https://github.com/alanprado1">
