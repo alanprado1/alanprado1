@@ -1,11 +1,11 @@
 Hi there, I'm Alan Prado 👋
 
-- 🎓 I'm a Software Engineer Student
-- 🔭 I’m currently working with Front End
-- 🌱 I’m currently learning Back End and Front End
-- 👯 I’m looking to collaborate on as many projects as I can
+- 🎓 I'm a Cybersecuryt Student
+- 🔭 Obssed with learning new technologies
+- 🌱 I have a passion for continuous learning
+- 👨‍💻 Probably working on a home lab as you read this.
 - 📫 Contact me @: alansofteng@gmail.com
-- 😄 Pronouns: He/Him
+
 
 <div align="center">
   <a href="https://github.com/alanprado1">
