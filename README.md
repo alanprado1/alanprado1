@@ -1,7 +1,7 @@
 Hi there, I'm Alan Prado 👋
 
 - 🎓 I'm a Cybersecuryt Student
-- 🔭 Obssed with learning new technologies
+- 🔭 I like building stuff
 - 🌱 I have a passion for continuous learning
 - 👨‍💻 Probably working on a home lab as you read this.
 - 📫 Contact me @: alansofteng@gmail.com
